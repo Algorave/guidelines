@@ -1,5 +1,7 @@
 # Algorave guidelines
 
+*These guidelines have been drafted by the algorave community.*
+
 **FIRST AND FOREMOST**: By all means, do go ahead and host / promote an Algorave! And have fun.
 
 Algorave is not a protected brand or franchise, you are free to do what you like with it. However it is a community, and these are some community-sourced guidelines for taking part.
