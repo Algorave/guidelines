@@ -1,6 +1,6 @@
 # General guidelines
 
-**FIRST AND FOREMOST:** By all means, please go ahead and host/promote an Algorave! And have fun. Algorave is not a protected brand or franchise, you are free to do what you like with it. However it is a community, and these are some community-sourced guidelines (*not* rules!) for taking part.
+**FIRST AND FOREMOST:** By all means, please go ahead and host/promote an Algorave! And have fun. Algorave is not a protected brand or franchise, you are free to do what you like with it. However it is a community, and these are some community-sourced guidelines for taking part.
 
 You can’t go wrong with full range speakers and high contrast ratio projector in a small, dark room, preferably with fog/haze. If you want to do a concert with rows of seats that’s fine but best not call it an Algorave.
 
