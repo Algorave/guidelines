@@ -13,6 +13,9 @@ Algorave is free culture so be careful with any sponsorship or institutional ali
 **Collapsing hierarchies** -
 ‘Headliners’ are generally frowned upon. Algoraves are not always ‘raves’ as such, but it’s good to be inspired by some of the spirit of semi-anonymous people playing to unified crowds.
 
+**Respect for other communities** -
+Algorave is not 'the future of dance music', we're just trying things out as part of a much longer history.
+
 **Diversity in lineups and audiences** -
 Try to have a diverse lineup, thinking about e.g. gender, ethnicity, class, age, belief/non-belief, and education. A diverse lineup creates a diverse audience which leads to a diverse community, and is beneficial to all. Additionally it is also nice to see a range of different technologies and approaches to keep things moving.
 
