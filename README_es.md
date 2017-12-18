@@ -1,33 +1,33 @@
-# General guidelines
+# Lineamientos generales
 
-**FIRST AND FOREMOST:** By all means, please go ahead and host/promote an Algorave! And have fun. Algorave is not a protected brand or franchise, you are free to do what you like with it. However it is a community, and these are some community-sourced guidelines for taking part.
+**ANTES QUE NADA:** ¡Organiza y promociona un Algorave! Diviértete. Algorave no es una marca protegida o una franquicia, eres libre de darle el uso que quieras. Se trata, sin embargo, de una comunidad, y estos son algunos lineamientos generados por la misma para formar parte de ella.
 
-You can’t go wrong with full range speakers and high contrast ratio projector in a small, dark room, preferably with fog/haze. If you want to do a concert with rows of seats that’s fine but best not call it an Algorave.
+Necesitarás bocinas de amplio rango y un proyector de alto contraste en un cuarto pequeño y oscuro, de preferencia con un poco de bruma. Si quieres ofrecer un concierto con filas de asientos está bien, pero lo mejor será no llamarlo Algorave.
 
-**Exposing algorithmic processes** -
-Most performances/acts should involve code-based and algorithmic generation of music and visuals, in a way that makes the code or algorithmic process visible. It doesn’t have to be live coded, though, and some aren’t comfortable projecting their screens. Beyond that, feel totally free to mix things up with other artforms/approaches in the interests of fun and diversity.
+**Exponer los procesos algorítmicos** -
+La mayoría de las interpretaciones deben incluir la generación de algorítmica de música y visuales, presentada de tal manera que el código o el proceso algorítmico sea visible. Dicho esto, no tiene que programarse al vuelo y algunas personas no se sienten cómodas proyectando sus pantallas. Independientemente de esto, siéntete con la libertad de mezclar técnicas y formas artísticas en aras de la diversión y la diversidad.
 
-**Be wary of institutions** -
-Algorave is free culture so be careful with any sponsorship or institutional alignment. It’s totally fine for promoters to perform as residents at Algoraves they’re organising, but don’t go too far with self-promotion. Use Algorave to lift each other up.
+**Cuidado con las instituciones** -
+Algorave es cultura libre, por lo que debes tener cuidado con cualquier patrocinio o alineación institucional. No hay problema alguno con que los promotores interpreten en un Algorave que ellos mismos están organizando, pero no lo conviertas en autopromoción. Usen Algorave para apoyarse los unos a los otros.
 
-**Collapsing hierarchies** -
-‘Headliners’ are generally frowned upon. Algoraves are not always ‘raves’ as such, but it’s good to be inspired by some of the spirit of semi-anonymous people playing to unified crowds.
+**Colapsar las jerarquías** -
+Los 'headliners' o 'actos principales' no son bien vistos. Los Algoraves no siempre son 'raves' como tales, pero es bueno inspirarse en la idea de que personas más o menos anónimas interpreten para un grupo unificado de personas.
 
-**Respect for other communities** -
-Algorave is not 'the future of dance music', we're just trying things out as part of a much longer history.
+**Respeto por otras comunidades** -
+Algorave no es 'el futuro de la música bailable', sólo estamos probando hacer cosas distintas dentro de una historia mucho más larga.
 
-**Diversity in lineups and audiences** -
-Try to have a diverse lineup, thinking about e.g. gender, ethnicity, class, age, belief/non-belief, and education. A diverse lineup creates a diverse audience which leads to a diverse community, and is beneficial to all. Additionally it is also nice to see a range of different technologies and approaches to keep things moving.
+**Carteles y audiencias diversas** -
+Procura tener una alineación diversa, toma en cuenta, por ejemplo, género, etnia, clase social, edad, creencia/no-creencia, y educación. Una alineación diversa trae consigo una audiencia diversa lo que lleva a una comunidad diversa, lo cual es bueno para todos. También es interesante conocer distintas tecnologías y maneras de mantener las cosas en movimiento.
 
-It’s best to focus on diversity right from the start. Once people get the impression of e.g. a boys’ club it’s hard to shake that off.. Plus we’re fighting against heavy biases in both club and tech culture… Look to create a new space from day one.
+Lo mejor es poner énfasis en la diversidad desde el principio. Una vez que la gente tiene la impresión de que se trata, por ejemplo, de un 'club de chicos', es difícil deshacerse de esa percepción. Además estamos luchando contra los prejuicios dentro de las culturas del club y la tecnología... busca crear un espacio nuevo desde el primer día.
 
-Algoraves should be safe spaces, consider having a code of conduct to promote accessibility, here’s an example: https://github.com/danhett/algoraveconduct
+Algorave debe ser un espacio seguro, toma en cuenta tener un código de conducta que promueva la accesibilidad, aquí hay un ejemplo (por el momento disponible sólo en inglés): https://github.com/danhett/algoraveconduct
 
-**Building local and online communities** -
-If people are already active in your area, get in contact and get involved. If possible, come along to an Algorave while thinking about organising one yourself. They’re pretty fun.
+**Construir comunidades locales y en línea** -
+Si ya hay gente activa en tu área, ponte en contacto e involúcrate. De ser posible, asiste a un Algorave pensando en organizar uno. Son muy divertidos.
 
-Online there is an active community of performers and event organizers who are happy to help; they can also provide resources for using the visual identity for promotional materials. Good places are:
+Existe una comunidad de intérpretes y organizadores en línea dispuestos a ayudar; también pueden proveer los recursos para usar la identidad visual en el material promocional. Algunos buenos lugares son:
 
-* The #algorave channel on the Live Coding Slack: http://live-code-slack.herokuapp.com
-* The algorave forum on Lurk: http://lurk.org/groups/algorave/
-* Alternatively you can use the contact page on the algorave website: https://algorave.com/contact/
+* El canal #algorave en el Slack de Live Coding: http://live-code-slack.herokuapp.com
+* El foro de Algorave en Lurk: http://lurk.org/groups/algorave/
+* También puedes usar la página de contacto en el sitio web de Algorave: https://algorave.com/contact/
