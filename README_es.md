@@ -5,7 +5,7 @@
 Necesitarás bocinas de amplio rango y un proyector de alto contraste en un cuarto pequeño y oscuro, de preferencia con un poco de bruma. Si quieres ofrecer un concierto con filas de asientos está bien, pero lo mejor será no llamarlo Algorave.
 
 **Exponer los procesos algorítmicos** -
-La mayoría de los performances deben incluir la generación algorítmica de música y visuales, presentada de tal manera que el código o el proceso algorítmico sea visible. Dicho esto, no tiene que ser live coded y algunas personas no se sienten cómodas proyectando sus pantallas. Independientemente de esto, siéntete con la libertad de mezclar técnicas y formas artísticas en aras de la diversión y la diversidad.
+La mayoría de las performances deben incluir la generación algorítmica de música y visuales, presentada de tal manera que el código o el proceso algorítmico sea visible. Dicho esto, no tiene que ser live coded y algunas personas no se sienten cómodas proyectando sus pantallas. Independientemente de esto, siéntete con la libertad de mezclar técnicas y formas artísticas en aras de la diversión y la diversidad.
 
 **Cuidado con las instituciones** -
 Algorave es cultura libre, por lo que debes tener cuidado con cualquier patrocinio o alineación institucional. No hay problema con que los promotores participen en un Algorave que ellos mismos están organizando, pero no lo conviertas en autopromoción. Usen Algorave para apoyarse los unos a los otros.
