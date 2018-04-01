@@ -28,6 +28,6 @@ Si ya hay gente activa en la escena Algorave de tu área, ponte en contacto con 
 
 Existe una comunidad en línea de performers y organizadores dispuestos a ayudar; también pueden proveer los recursos necesarios para usar la identidad visual en el material promocional. Algunos buenos lugares para entrar en contacto con esta comunidad son:
 
-* El canal #algorave en el Slack de Live Coding: http://live-code-slack.herokuapp.com
-* El foro de Algorave en Lurk: http://lurk.org/groups/algorave/
+* El canal #algorave en el Slack de Live Coding: http://talk.lurk.org/
+* El foro de Algorave en Lurk: https://we.lurk.org/postorius/lists/algorave.we.lurk.org/
 * También puedes usar la página de contacto en el sitio web de Algorave: https://algorave.com/contact/
