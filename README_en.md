@@ -21,7 +21,7 @@ Try to have a diverse lineup, thinking about e.g. gender, ethnicity, class, age,
 
 It’s best to focus on diversity right from the start. Once people get the impression of e.g. a boys’ club it’s hard to shake that off.. Plus we’re fighting against heavy biases in both club and tech culture… Look to create a new space from day one.
 
-Algoraves should be safe spaces, consider having a code of conduct to promote accessibility, here’s an example: https://github.com/danhett/algoraveconduct
+Algoraves should be safe spaces, consider having a code of conduct to promote accessibility, here’s an example: https://github.com/Algorave/algoraveconduct
 
 **Building local and online communities** -
 If people are already active in your area, get in contact and get involved. If possible, come along to an Algorave while thinking about organising one yourself. They’re pretty fun.
