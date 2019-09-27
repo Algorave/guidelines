@@ -28,7 +28,8 @@ If people are already active in your area, get in contact and get involved. If p
 
 Online there is an active community of performers and event organizers who are happy to help; they can also provide resources for using the visual identity for promotional materials. Good places are:
 
-* The #algorave channel on the Live Coding chat: http://talk.lurk.org/
+* The #algorave channel on the Live Coding chat: https://chat.toplap.org/channel/algorave
+* For slower discussion, the TOPLAP forum https://forum.toplap.org/
 * The algorave forum on Lurk: https://we.lurk.org/postorius/lists/algorave.we.lurk.org/
 * Alternatively you can use the contact page on the algorave website: https://algorave.com/contact/
 
