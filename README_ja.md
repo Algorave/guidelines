@@ -16,12 +16,13 @@
 
 初めから多様性に焦点を合わせるのが最善です。例えば男性優位の集団という印象をいったん受けてしまったら、それを振り払うのは容易なことではありません。 加えて、私たちはクラブカルチャーとテクノロジー文化の両方で頑なな偏見と闘っています。新しい場を１日目から作り出すことを考えましょう。
 
-Algoraveは危険のない場であるべきです。アクセシビリティを高めるための行動規範を設けることを検討してください。このような例があります: [https://github.com/danhett/algoraveconduct](https://github.com/danhett/algoraveconduct)
+Algoraveは危険のない場であるべきです。アクセシビリティを高めるための行動規範を設けることを検討してください。このような例があります: [https://github.com/Algorave/algoraveconduct](https://github.com/Algorave/algoraveconduct)
 
 **ローカルとネット上のコミュニティを作る:** もし既にあなたの住む地方で活発に活動している人たちがいるなら、連絡を取って参加しましょう。できれば、自らAlgoraveを開催することを考えながら、合流してください。結構楽しいですよ。
 
 ネット上には、演奏者とイベント運営者の活発なコミュニティがあります。皆喜んで手伝ってくれます。宣伝材料として目印になるような素材も提供してくれます。 おすすめしたいのは 
 
-- Live Coding Slackの#algoraveチャンネル: [http://live-code-slack.herokuapp.com/](http://live-code-slack.herokuapp.com/)
-- Lurkのalgoraveフォーラム: [http://lurk.org/groups/algorave/](http://lurk.org/groups/algorave/)
-- あるいは、algoraveウェブサイトのcontactページ: [https://algorave.com/contact/](http://lurk.org/groups/algorave/) を使うこともできます。
+* Live Coding chatの#algoraveチャンネル: [https://chat.toplap.org/channel/algorave](https://chat.toplap.org/channel/algorave)
+* じっくりと議論するためのTOPLAPフォーラム: [https://forum.toplap.org/](https://forum.toplap.org/)
+* Lurkのalgoraveフォーラム: [https://we.lurk.org/postorius/lists/algorave.we.lurk.org/](https://we.lurk.org/postorius/lists/algorave.we.lurk.org/)
+* あるいは、algoraveウェブサイトのcontactページ: [https://algorave.com/contact/](https://algorave.com/contact/) を使うこともできます。
