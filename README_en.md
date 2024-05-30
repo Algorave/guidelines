@@ -17,7 +17,7 @@ Algorave is free culture so be careful with any sponsorship or institutional ali
 Algorave is not 'the future of dance music', we're just trying things out as part of a much longer history.
 
 **Diversity in lineups and audiences** -
-Try to have a diverse lineup, thinking about e.g. gender, ethnicity, class, age, belief/non-belief, and education. A diverse lineup creates a diverse audience which leads to a diverse community, and is beneficial to all. Additionally it is also nice to see a range of different technologies and approaches to keep things moving.
+Try to have a diverse lineup, thinking about e.g. gender, ethnicity, class, age, belief/non-belief, and education. A diverse lineup creates a diverse audience which leads to a diverse community, and is beneficial to all. Additionally it is also nice to see a range of different technologies and approaches to keep things moving. To further support inclusivity in audiences, algorave events should consider affordability: for example, by providing transparent 'pay-what-you-can-afford' pricing options.
 
 It’s best to focus on diversity right from the start. Once people get the impression of e.g. a boys’ club it’s hard to shake that off.. Plus we’re fighting against heavy biases in both club and tech culture… Look to create a new space from day one.
 
