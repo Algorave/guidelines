@@ -21,7 +21,7 @@ Tente ter uma lineup diversificada, pensando em, por exemplo, gênero, etnia, cl
 
 É melhor focar na diversidade desde o início. Uma vez que as pessoas fiquem com a impressão de um clube de meninos, é difícil se livrar disso. Além disso, estamos lutando contra preconceitos pesados na cultura club e de tecnologia... Procure criar um espaço novo desde o principio.
 
-Os Algoraves devem ser espaços seguros, considere ter um código de conduta para promover a acessibilidade, aqui está um exemplo: https://github.com/Algorave/algoraveconduct
+As Algoraves devem ser espaços seguros, considere ter um código de conduta para promover a acessibilidade, aqui está um exemplo: https://github.com/Algorave/algoraveconduct
 
 **Construindo comunidades locais e online** -
 Se as pessoas já são ativas em sua área, entre em contato e se envolva. Se possível, venha a um Algorave enquanto pensa em organizar uma você mesmo. Elas são muito divertidas.
