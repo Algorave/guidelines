@@ -33,4 +33,4 @@ Online there is an active community of performers and event organizers who are h
 * The algorave forum on Lurk: https://we.lurk.org/postorius/lists/algorave.we.lurk.org/
 * Alternatively you can use the contact page on the algorave website: https://algorave.com/contact/
 * You can find more community links here: https://github.com/toplap/awesome-livecoding?tab=readme-ov-file#community
-* + a local TOPLAP node here: https://toplap.org/nodes/
+* and hopefully a live coding community near you here: https://toplap.org/nodes/
